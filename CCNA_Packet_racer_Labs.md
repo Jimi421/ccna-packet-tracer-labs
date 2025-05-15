@@ -58,10 +58,3 @@ Copy
 Edit
 
 ---
-
-Would you like me to customize this further with:
-- Your GitHub profile link?
-- A description of your bootcamp or goals?
-- A banner image or badge?
-
-Just let me know — or say **"ready to push this"** and I’ll walk you through to the best of my ability!
