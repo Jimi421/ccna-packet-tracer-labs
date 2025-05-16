@@ -19,11 +19,14 @@ Each lab includes:
 
 ## 📂 Lab Directory
 
-| Category      | Lab Title                    | Difficulty | Status |
-|---------------|------------------------------|------------|--------|
-| Switching     | [Port Security Basic](./switching/port_security_basic) | ⭐️⭐️     | ✅ Complete |
-| Routing       | Static Routing Basic         | ⭐️⭐️⭐️   | 🔧 In Progress |
-| Switching     | Switch Hardening Basics      | ⭐️⭐️⭐️   | 🔧 In Progress |
+| Category      | Lab Title                                      | Difficulty | Status      |
+|---------------|------------------------------------------------|------------|-------------|
+| Switching     | [Port Security Basic](./switching/port_security_basic)     | ⭐️⭐️     | ✅ Complete |
+| Routing       | [Static Routing Basic](./routing/static_routing_basic)     | ⭐️⭐️⭐️   | ✅ Complete |
+| Switching     | Switch Hardening Basics                        | ⭐️⭐️⭐️   | 🔧 In Progress |
+| ACLs          | Standard ACL: Block Ping                       | ⭐️⭐️     | 🧠 Planned   |
+| Routing       | Dynamic NAT / PAT                              | ⭐️⭐️⭐️   | 🧠 Planned   |
+| Services      | DHCP Server Configuration                      | ⭐️⭐️     | 🧠 Planned   |
 
 ---
 
@@ -53,16 +56,3 @@ GitHub Profile
 
 📘 License
 This project is open-source under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Would you like me to customize this further with:
-- Your GitHub profile link?
-- A description of your bootcamp or goals?
-- A banner image or badge?
-
-Just let me know — or say **"ready to push this"** and I’ll walk you through to the best of my ability!
